@@ -1,1 +1,0 @@
-bin/sample/hi.rb
