@@ -1,0 +1,3 @@
+[submodule "Tentacle"]
+	path = Tentacle
+	url = git@github.com:mdiep/Tentacle.git
